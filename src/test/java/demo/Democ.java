@@ -8,6 +8,7 @@ public class Democ {
 
 		System.out.println("git  sucess");
 		System.out.println("code approval");
+		System.out.println("code changed");
 	}
 
 }
