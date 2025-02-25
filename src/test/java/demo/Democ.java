@@ -9,7 +9,7 @@ public class Democ {
 
 		System.out.println("code approval");
 		System.out.println("code changed");
-		System.out.println("local branch created");
+		System.out.println("local branch commit");
 
 	}
 
