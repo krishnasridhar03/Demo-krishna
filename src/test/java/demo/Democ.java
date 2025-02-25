@@ -6,7 +6,7 @@ public class Democ {
 		// TODO Auto-generated method stub
 
 
-		System.out.println("git  sucess");
+
 		System.out.println("code approval");
 		System.out.println("code changed");
 	}
