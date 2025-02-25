@@ -10,6 +10,7 @@ public class Democ {
 		System.out.println("code approval");
 		System.out.println("code changed");
 		System.out.println("local branch commit");
+		System.out.println("fork branch changes..");
 
 	}
 
